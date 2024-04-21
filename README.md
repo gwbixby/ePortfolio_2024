@@ -47,3 +47,7 @@ Contributions to the Python Authentication System are welcome! Please fork the r
 ### Security
 
 This system implements several security measures; however, we recommend conducting a security audit when integrating it into production environments to ensure it meets all security requirements.
+
+## Code Review
+
+A detailed review of the Java code that was enhanced can be found [here](https://youtu.be/CuP-uzfcSKE)
