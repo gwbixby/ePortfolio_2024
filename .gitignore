@@ -1,0 +1,12 @@
+# Local runtime files; original academic source remains unchanged
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+users.db
+users.db-*
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
