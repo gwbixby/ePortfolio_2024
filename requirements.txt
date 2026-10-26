@@ -1,0 +1,2 @@
+# Dependency for the archived Python authentication exercise
+bcrypt
